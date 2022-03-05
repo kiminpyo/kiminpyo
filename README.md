@@ -12,6 +12,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 ---
-**[Notion]**(https://www.notion.so/0bbf1fddc01f4ae5acc93c971d12381c)
+
+[Notion](https://www.notion.so/0bbf1fddc01f4ae5acc93c971d12381c)
 
 [Blog]
