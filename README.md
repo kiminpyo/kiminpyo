@@ -1,6 +1,6 @@
 
 
-**##Platforms & Languages**
+## Platforms & Languages
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuefity&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>
 
 ---
-**##Tools**
+## Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 ---
