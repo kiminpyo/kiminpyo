@@ -9,11 +9,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>
 
----
 ## Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
----
+
 
 **[Notion](https://www.notion.so/0bbf1fddc01f4ae5acc93c971d12381c)**
 
