@@ -4,7 +4,7 @@
 
 
 
-## Platforms & Languages
+## STACK
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -20,18 +20,7 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-  
-  
-  
 
-## Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-
-
-**[Notion](https://www.notion.so/0bbf1fddc01f4ae5acc93c971d12381c)**
-
-**[Blog](https://velog.io/@kip)** 프로젝트와 기타 공부들에 대해서 기록
 
 ![kiminpyo's github stats](https://github-readme-stats.vercel.app/api?username=kiminpyo&show_icons=true)
 [![kiminpyo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiminpyo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kiminpyo)
