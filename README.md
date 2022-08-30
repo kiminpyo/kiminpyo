@@ -6,7 +6,7 @@
 
 ## STACK
 
-<div style="display:flex; justify-content:center"> 
+<p align="center"> 
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  </div>
+  </p>
 
 ----
 ![kiminpyo's github stats](https://github-readme-stats.vercel.app/api?username=kiminpyo&show_icons=true)
