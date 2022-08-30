@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=FANTASTICIAN&fontSize=90&animation=fadeIn&theme=moltack"/>
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=FANTASTICIAN&fontSize=90&animation=fadeIn&theme=moltack&fontColor=d6ace6"/>
 ## Platforms & Languages
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
