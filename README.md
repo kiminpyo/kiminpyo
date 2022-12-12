@@ -5,8 +5,3 @@
   
  
 
-----
-![kiminpyo's github stats](https://github-readme-stats.vercel.app/api?username=kiminpyo&show_icons=true)
-
-----
-
